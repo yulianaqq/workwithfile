@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines of text.
+This is the third line.
+This text will be used for testing purposes.
+Make sure to check if the file has been created successfully.

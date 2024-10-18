@@ -1,0 +1,5 @@
+Total Characters: 97
+Total Lines: 5
+Total Vowels: 32
+Total Consonants: 60
+Total Digits: 0
